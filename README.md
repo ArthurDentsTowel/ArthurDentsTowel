@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning manically about generative AI, coding, and development 
 - 💞️ I’m looking to collaborate on a project that I have which integrates Pi AI API into a mobile app for project management to push and pull with Monday.com
 - 📫 How to reach me: CalvinHatesMonday@proton.me
-- ⚡ Fun fact: I speak very poor Norwegian, but read at a University level
+- ⚡ Fun fact: I once performed with Limp Bizkit at the Warped Tour in Milwaukee
 
 <!---
 ArthurDentsTowel/ArthurDentsTowel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
